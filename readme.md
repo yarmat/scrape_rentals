@@ -18,7 +18,7 @@ php index.php
 ```
 <hr>
 
-####### Output
+###### Output
 <pre>
 22
 "Zippy Auto Toyota Yaris or Mazda 2"
